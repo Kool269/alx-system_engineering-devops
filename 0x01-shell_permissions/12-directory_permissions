@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 mkdir -m 751 my_dir
 =======
 mkdir -m 751 dir_alx
 >>>>>>> 2daaeda8381d86e5112da643c91986e3db30c688
+=======
+mkdir -m 751 my_dir
+>>>>>>> 519c6d3c9bb47dacdb0df4fa4b60df529b63395c
